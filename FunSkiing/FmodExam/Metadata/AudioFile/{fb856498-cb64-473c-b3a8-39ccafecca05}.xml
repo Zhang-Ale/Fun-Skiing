@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{fb856498-cb64-473c-b3a8-39ccafecca05}">
+		<property name="assetPath">
+			<value>511589__ddmyzik__sport-hero-loop.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>25.26315192743764</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2488c648-ac40-4287-b391-96461a9faa92}</destination>
+		</relationship>
+	</object>
+</objects>

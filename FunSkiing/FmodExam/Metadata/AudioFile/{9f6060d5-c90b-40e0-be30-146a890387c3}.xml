@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{9f6060d5-c90b-40e0-be30-146a890387c3}">
+		<property name="assetPath">
+			<value>499400__danlucaz__happy-loop-1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>11.08172335600907</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2488c648-ac40-4287-b391-96461a9faa92}</destination>
+		</relationship>
+	</object>
+</objects>
