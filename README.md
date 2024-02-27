@@ -3,10 +3,10 @@
 **Made by:** HongCheng Zhang. 
 
 **How to play:** 
-WASD to move. 
+W and D to move horizontally. 
 
 **Game goal:**
-Get all the coins and reach the final destination. 
+Escape from the ski coach while trying to hit the kids on the ski road.  
 
 [**Drive link to download the game**](https://drive.google.com/drive/folders/1hHBbMVROOUAyGk7ersBmx-UYUVfuosNG?usp=sharing)
  
